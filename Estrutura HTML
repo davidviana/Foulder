@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <title>A vida </title> 
+    <head>  <b>Cheiro de Pneu Queimado</b> 
+        <meta charset="utf = 8">
+    </head>
+
+    <body>        
+        <h1> David Viana </h1>
+        <img src="Irmã Zuzu.jpeg" alt="Soy JoVEM"/>
+        <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae aspernatur laudantium sed dolorem harum. Aperiam consequuntur ut eligendi ea cum delectus maiores, asperiores pariatur ex ipsum laudantium animi, tempore provident.
+        </p>
+        
+        <h2>Comeu cú de quem ta lendo</h2>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis debitis facilis nostrum vitae explicabo consequatur corrupti reiciendis laborum quasi, atque ipsum enim hic? Facilis impedit ea sequi necessitatibus incidunt error?
+         </p> 
+        <ul>
+            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li> <li> exercitationem hic obcaecati voluptatibus consequuntur nam</li> alias et excepturi, soluta expedita ea cum voluptas ipsam perspiciatis rem nihil voluptatum modi minima.
+        </ul>
+        <ol>
+            <li>Rosca</li>
+            <li>Rosas</li>
+        </ol>
+    </body>
+</html>
